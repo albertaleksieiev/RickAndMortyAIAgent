@@ -1,7 +1,13 @@
 # Rick and Morty AI Agent
 
 ![app screenshot](resources/gameplay.png)
-This project implements an AI-powered chat agent based on Rick from Rick and Morty, with memory management, reflection capabilities, and multimedia generation.
+
+This project implements an AI-powered chat game based on Rick from Rick and Morty, with memory management, reflection capabilities, and native voice generation.
+
+Check out the demo video to see the Rick and Morty AI Agent in action:
+[![Rick and Morty AI Agent Demo](resources/youtube_screenshot.png)](https://www.youtube.com/watch?v=ZAvmPfzkVsA)
+
+This project is part of a Medium blog post series: [Memory Matters: Building an AI Agent with Multi-Layered Memory Systems (Part 2)](https://medium.com/@albert.aleksieiev/memory-matters-building-an-ai-agent-with-multi-layered-memory-systems-part-2-d8215339f10d)
 
 ## Prerequisites
 
