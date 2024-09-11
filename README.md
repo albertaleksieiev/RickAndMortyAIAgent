@@ -41,6 +41,11 @@ Before running the project, make sure you have the following installed:
      FAKEYOU_PASSWORD=your_fakeyou_password
      ```
 
+2. Obtain API keys:
+   - Anthropic API key: Get it from [https://console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
+   - OpenAI API key: Retrieve it from [https://platform.openai.com/settings/profile?tab=api-keys](https://platform.openai.com/settings/profile?tab=api-keys)
+   - FakeYou (optional): If you want to use Rick's voice, create an account at [FakeYou](https://fakeyou.com/). Note that you may need to set up a payment account. During initialization, FakeYou uses a password for authentication, so use a random password or one that you're not worried about losing. Do not use your real password.
+
 ## Usage
 
 Run the main script to start the chat:
